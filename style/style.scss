@@ -1,0 +1,28 @@
+html{
+    font-size: 62.5%;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-size: 3.5rem;
+}
+p{
+    font-size: 2.5rem;
+}
+li{
+    font-size: 2rem;
+    list-style: none;
+}
+a{
+    color: #9B8055;
+    text-decoration: none;
+    font-weight: 500;
+}
+@import "home";
+@import "mobile";
